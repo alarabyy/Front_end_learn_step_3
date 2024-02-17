@@ -1,0 +1,128 @@
+body{
+    background-color: ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navg{
+    background-color: rgb(252, 156, 32);
+    padding: 0.2vw;
+    margin: 0.2vh;
+    width: 15vw;
+    height: 100vh;
+    color: aliceblue;
+}
+#close{ 
+    color: rgb(0, 104, 165);
+    border-width: 15vw;
+    width: 7.4vw;
+    border-radius: 5%;
+    border: none;
+    position: absolute;
+    left:16vw
+}
+#open{
+    font-size: xx-large;
+    background-color: black;
+    box-shadow: 3px 3px 20px;
+    color: rgb(2, 69, 169);
+    border-width: 15vw;
+    width: 15.4vw;
+    height: 5vh;
+    /* border-radius: 8%; */
+    border: none;
+}
+.navg h3{
+    padding: 1.5vw;
+}
+.navg h3:hover ,#open:hover,#close:hover{
+background-color: black;
+}
+.hide{
+    display: none;
+}
+
+
+.image1 img{
+    width:9.8vw;
+    height:9.8vw;
+}
+.image1 img:hover{
+    border: 2px solid yellow;
+    cursor: pointer;
+}
+.hoverr img{
+    width:100vw;
+    height:100vh; 
+}
+/* <div class="gelary">
+  <div class="image1">
+    <img onclick="hover.src=this.src" src="./background/-5204119625711864017_121.jpg" alt="...">
+    <img onclick="hover.src=this.src"  src="./background/-5204119625711864019_121.jpg" alt="...">
+    <img onclick="hover.src=this.src" src="./background/-5204119625711864021_121.jpg" alt="...">
+    <img onclick="hover.src=this.src" src="./background/-5204119625711864031_121.jpg" alt="...">
+    <img onclick="hover.src=this.src"  src="./background/-6012475708254825615_121.jpg" alt="....">
+    <img onclick="hover.src=this.src"  src="./background/-5982281448213819115_121.jpg" alt="....">
+    <img onclick="hover.src=this.src"  src="./background/-5982092804660243547_121.jpg" alt="...">
+    <img onclick="hover.src=this.src"  src="./background/-5828179134029870927_121.jpg" alt="....">
+    <img onclick="hover.src=this.src"  src="./background/-5769530303336003677_121.jpg" alt="...">
+    <img onclick="hover.src=this.src"  src="./background/-5314660766672078581_121.jpg" alt="...">
+  </div>
+
+  <div class="hoverr">
+<img src="./background/-6012475708254825616_121.jpg" name="hover" alt="">
+  </div>
+
+  <div class="image1">
+    <img onmouseenter="hover.src=this.src" src="./background/-5204119625711864017_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5204119625711864019_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src" src="./background/-5204119625711864021_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src" src="./background/-5204119625711864031_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src"  src="./background/-6012475708254825615_121.jpg" alt="....">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5982281448213819115_121.jpg" alt="....">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5982092804660243547_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5828179134029870927_121.jpg" alt="....">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5769530303336003677_121.jpg" alt="...">
+    <img onmouseenter="hover.src=this.src"  src="./background/-5314660766672078581_121.jpg" alt="...">
+  </div>
+
+</div> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav{
+background-color: black;
+color: black;
+/* transform: translate(0px,500px); */
+}
